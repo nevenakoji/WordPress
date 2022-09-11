@@ -1,0 +1,32 @@
+2022-09-09T06:21:47+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:21) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 31
+
+2022-09-09T06:21:50+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:21) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 31
+
+2022-09-09T06:21:53+00:00 CRITICAL Cannot redeclare promeni_cart() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:21) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 31
+
+2022-09-09T06:26:15+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:26:17+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:26:19+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:26:47+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:27:00+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:27:02+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:27:15+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:27:16+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:27:18+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 42
+
+2022-09-09T06:28:02+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 43
+
+2022-09-09T06:28:18+00:00 CRITICAL Cannot redeclare promeni_cart_price() (previously declared in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php:32) in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 43
+
+2022-09-09T12:03:21+00:00 CRITICAL syntax error, unexpected token "echo" in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 79
+
+2022-09-09T12:03:26+00:00 CRITICAL syntax error, unexpected token "echo" in /home/nkojic/public_html/divi1/wp-content/themes/Divi-child/functions.php on line 79
+
