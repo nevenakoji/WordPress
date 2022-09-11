@@ -1,0 +1,10 @@
+[2022-08-22 07:55:51 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-08-22 07:55:51 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2022-08-22 07:55:51 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2022-08-22 07:55:51 : INFO] - Task with ID 19 and type (smush) failed with error code invalid_file_type - /home/nkojic/public_html/portfolio/wp-content/uploads/2022/08/responsive-design-1.svg - cannot be optimized, it has an invalid file type 
+[2022-08-22 07:55:51 : INFO] - Task with ID 19 and type (smush) failed with error code invalid_file_type - /home/nkojic/public_html/portfolio/wp-content/uploads/2022/08/responsive-design-1.svg - cannot be optimized, it has an invalid file type 
+[2022-08-22 07:55:59 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-08-22 07:55:59 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2022-08-22 07:55:59 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2022-08-22 07:55:59 : INFO] - Task with ID 20 and type (smush) failed with error code invalid_file_type - /home/nkojic/public_html/portfolio/wp-content/uploads/2022/08/responsive-design-1.svg - cannot be optimized, it has an invalid file type 
+[2022-08-22 07:55:59 : INFO] - Task with ID 20 and type (smush) failed with error code invalid_file_type - /home/nkojic/public_html/portfolio/wp-content/uploads/2022/08/responsive-design-1.svg - cannot be optimized, it has an invalid file type 
