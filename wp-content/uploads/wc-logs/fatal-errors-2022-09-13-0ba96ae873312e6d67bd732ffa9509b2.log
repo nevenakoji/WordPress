@@ -1,0 +1,308 @@
+2022-09-13T17:22:23+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:22:57+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_price_html() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:264
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_price.php(122): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Price_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 264
+
+2022-09-13T17:24:05+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:537
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_related.php(201): WooLentor_Default_Data->default('wl-product-rela...', Array)
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Related_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 537
+
+2022-09-13T17:24:32+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_type() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:258
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_add_to_cart.php(1305): WooLentor_Default_Data->default('wl-product-add-...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Add_To_Cart_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 258
+
+2022-09-13T17:46:57+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/woolentor-blocks/includes/classes/Api/Api.php:281
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(1143): WooLentorBlocks\Api\Api->get_last_product_data(Object(WP_REST_Request))
+#1 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/woolentor/v1/s...', Array, NULL)
+#2 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/nkojic/public_html/projekatants/wp-includes/rest-api.php(394): WP_REST_Server->serve_request('/woolentor/v1/s...')
+#4 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp.php(398): do_action_ref_array('parse_request', Array)
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp.php(770): WP->parse_request('')
+#9 /home/nkojic/public_html/projekatants/wp-includes/functions.php(1330): WP->main('')
+#10 /home/nkojic/public_html/projekatants/wp-blog-header.php(16): wp()
+#11 /home/nkojic/public_html/projekatants/index.php(17): require('/home/nkojic/pu...')
+#12 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/woolentor-blocks/includes/classes/Api/Api.php on line 281
+
+2022-09-13T17:48:31+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(631): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(1019): Elementor\Core\Base\Document->get_initial_config()
+#9 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/editor/editor.php(527): Elementor\Controls_Stack->get_config()
+#10 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#11 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#12 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#13 /home/nkojic/public_html/projekatants/wp-includes/script-loader.php(2156): do_action('wp_enqueue_scri...')
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-includes/general-template.php(3042): do_action('wp_head')
+#18 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#19 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/editor/editor.php(322): include('/home/nkojic/pu...')
+#20 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/editor/editor.php(163): Elementor\Core\Editor\Editor->print_editor_template()
+#21 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Editor\Editor->init('')
+#22 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#23 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#24 /home/nkojic/public_html/projekatants/wp-admin/admin.php(419): do_action('admin_action_el...')
+#25 /home/nkojic/public_html/projekatants/wp-admin/post.php(12): require_once('/home/nkojic/pu...')
+#26 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:48:41+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/woolentor-blocks/includes/classes/Api/Api.php:281
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(1143): WooLentorBlocks\Api\Api->get_last_product_data(Object(WP_REST_Request))
+#1 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/woolentor/v1/s...', Array, NULL)
+#2 /home/nkojic/public_html/projekatants/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/nkojic/public_html/projekatants/wp-includes/rest-api.php(394): WP_REST_Server->serve_request('/woolentor/v1/s...')
+#4 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp.php(398): do_action_ref_array('parse_request', Array)
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp.php(770): WP->parse_request('')
+#9 /home/nkojic/public_html/projekatants/wp-includes/functions.php(1330): WP->main('')
+#10 /home/nkojic/public_html/projekatants/wp-blog-header.php(16): wp()
+#11 /home/nkojic/public_html/projekatants/index.php(17): require('/home/nkojic/pu...')
+#12 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/woolentor-blocks/includes/classes/Api/Api.php on line 281
+
+2022-09-13T17:49:50+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/sources/local.php(690): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(369): Elementor\TemplateLibrary\Source_Local->get_data(Array)
+#9 [internal function]: Elementor\TemplateLibrary\Manager->get_template_data(Array)
+#10 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func(Array, Array)
+#11 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request('get_template_da...', Array)
+#12 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#13 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#18 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:50:04+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/sources/local.php(690): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(369): Elementor\TemplateLibrary\Source_Local->get_data(Array)
+#9 [internal function]: Elementor\TemplateLibrary\Manager->get_template_data(Array)
+#10 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func(Array, Array)
+#11 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request('get_template_da...', Array)
+#12 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#13 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#18 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:50:25+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/sources/local.php(690): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(369): Elementor\TemplateLibrary\Source_Local->get_data(Array)
+#9 [internal function]: Elementor\TemplateLibrary\Manager->get_template_data(Array)
+#10 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func(Array, Array)
+#11 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request('get_template_da...', Array)
+#12 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#13 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#18 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:52:42+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/sources/local.php(690): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(369): Elementor\TemplateLibrary\Source_Local->get_data(Array)
+#9 [internal function]: Elementor\TemplateLibrary\Manager->get_template_data(Array)
+#10 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func(Array, Array)
+#11 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request('get_template_da...', Array)
+#12 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#13 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#18 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:53:38+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(733): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Widget_Base->get_raw_data(true)
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/element-base.php(534): Elementor\Element_Base->get_raw_data(true)
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(957): Elementor\Element_Base->get_raw_data(true)
+#7 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/sources/local.php(690): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(369): Elementor\TemplateLibrary\Source_Local->get_data(Array)
+#9 [internal function]: Elementor\TemplateLibrary\Manager->get_template_data(Array)
+#10 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(575): call_user_func(Array, Array)
+#11 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/template-library/manager.php(607): Elementor\TemplateLibrary\Manager->handle_ajax_request('get_template_da...', Array)
+#12 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#13 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#14 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#15 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#16 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#17 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#18 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:55:08+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:537
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_related.php(201): WooLentor_Default_Data->default('wl-product-rela...', Array)
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Related_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 537
+
+2022-09-13T17:55:42+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_image_id() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:327
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_image.php(140): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Image_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 327
+
+2022-09-13T17:56:05+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_price_html() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:264
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_price.php(122): WooLentor_Default_Data->default('wl-single-produ...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Price_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 264
+
+2022-09-13T17:56:19+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::get_type() in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php:258
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/includes/addons/wb_product_add_to_cart.php(1305): WooLentor_Default_Data->default('wl-product-add-...')
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/controls-stack.php(2223): Elementor\Woolentor_Wb_Product_Add_To_Cart_Widget->render()
+#2 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/base/document.php(292): Elementor\Widget_Base->render_content()
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/includes/managers/widgets.php(426): Elementor\Core\Base\Document->render_element(Array)
+#5 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#6 /home/nkojic/public_html/projekatants/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#8 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#9 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#10 /home/nkojic/public_html/projekatants/wp-admin/admin-ajax.php(187): do_action('wp_ajax_element...')
+#11 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/woolentor-addons/classes/class.default_data.php on line 258
+

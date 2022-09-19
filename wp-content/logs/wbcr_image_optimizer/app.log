@@ -1,0 +1,943 @@
+
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242699450_5058823967471400_4198940353570775299_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242699450_5058823967471400_4198940353570775299_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242699450_5058823967471400_4198940353570775299_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][debug] New queue created #248, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;915&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:76471,&quot;final_size&quot;:76471,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:66663,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615218}
+19-09-2022 19:20:18 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 69
+-------------------------------
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242735023_5051734908180306_1305116846922247166_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242735023_5051734908180306_1305116846922247166_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242735023_5051734908180306_1305116846922247166_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][debug] New queue created #249, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;916&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:64323,&quot;final_size&quot;:64323,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:55069,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615219}
+19-09-2022 19:20:19 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 68
+-------------------------------
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242786576_5071521746201622_6171882814012930645_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242786576_5071521746201622_6171882814012930645_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/242786576_5071521746201622_6171882814012930645_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][debug] New queue created #250, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;917&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:52329,&quot;final_size&quot;:52329,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:44611,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615221}
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 67
+-------------------------------
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240106123_5055052447848552_2606989931204585707_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240106123_5055052447848552_2606989931204585707_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240106123_5055052447848552_2606989931204585707_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:22 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:22 [nkojic.wppsbootcamp.com][debug] New queue created #251, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;918&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:63536,&quot;final_size&quot;:63536,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:53613,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615222}
+19-09-2022 19:20:22 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 66
+-------------------------------
+19-09-2022 19:20:22 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/36fe3673-90b6-41df-80d7-5eaad429ecd5-1.jpg) to a remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/36fe3673-90b6-41df-80d7-5eaad429ecd5-1-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/36fe3673-90b6-41df-80d7-5eaad429ecd5-1-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][debug] New queue created #252, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;920&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:235758,&quot;final_size&quot;:235758,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:225354,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615223}
+19-09-2022 19:20:23 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 65
+-------------------------------
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120603414_4002347169785757_1342225059869190314_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120603414_4002347169785757_1342225059869190314_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120603414_4002347169785757_1342225059869190314_n-245x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][debug] New queue created #253, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;930&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:219224,&quot;final_size&quot;:219224,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:210849,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615224}
+19-09-2022 19:20:24 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 64
+-------------------------------
+19-09-2022 19:20:25 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:25 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120711872_4013507972003010_6032181051559953666_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120711872_4013507972003010_6032181051559953666_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120711872_4013507972003010_6032181051559953666_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][debug] New queue created #254, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;931&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:222481,&quot;final_size&quot;:222481,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:211915,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615226}
+19-09-2022 19:20:26 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 63
+-------------------------------
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120925068_4023643717656102_7768960154107035185_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120925068_4023643717656102_7768960154107035185_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:27 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/120925068_4023643717656102_7768960154107035185_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][debug] New queue created #255, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;932&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:298551,&quot;final_size&quot;:298551,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:285954,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615228}
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 62
+-------------------------------
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/118396670_3893176470702828_923193176143262767_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:28 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/118396670_3893176470702828_923193176143262767_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/118396670_3893176470702828_923193176143262767_n-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][debug] New queue created #256, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;937&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:96016,&quot;final_size&quot;:96016,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77338,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615229}
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 61
+-------------------------------
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278338198_405493721578819_5372422211050680601_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278338198_405493721578819_5372422211050680601_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278338198_405493721578819_5372422211050680601_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][debug] New queue created #257, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;949&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:90988,&quot;final_size&quot;:90988,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:84700,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615230}
+19-09-2022 19:20:30 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 60
+-------------------------------
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278633296_406276324833892_1216422593150352486_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278633296_406276324833892_1216422593150352486_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278633296_406276324833892_1216422593150352486_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][debug] New queue created #258, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;950&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:80408,&quot;final_size&quot;:80408,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:72796,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615231}
+19-09-2022 19:20:31 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 59
+-------------------------------
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278670236_406276331500558_5005606424136448599_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278670236_406276331500558_5005606424136448599_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278670236_406276331500558_5005606424136448599_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:32 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:33 [nkojic.wppsbootcamp.com][debug] New queue created #259, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;951&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:223069,&quot;final_size&quot;:223069,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:212718,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615233}
+19-09-2022 19:20:33 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+19-09-2022 19:20:33 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:33 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278880083_408181744643350_6705587884878601140_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:33 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278880083_408181744643350_6705587884878601140_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278880083_408181744643350_6705587884878601140_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][debug] New queue created #260, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;952&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:113292,&quot;final_size&quot;:113292,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106348,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615234}
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279274960_409947457800112_788491103894680332_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279274960_409947457800112_788491103894680332_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279274960_409947457800112_788491103894680332_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][debug] New queue created #261, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;953&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:79992,&quot;final_size&quot;:79992,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:73149,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615235}
+19-09-2022 19:20:35 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279315601_409947461133445_7117577431470398848_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279315601_409947461133445_7117577431470398848_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/279315601_409947461133445_7117577431470398848_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][debug] New queue created #262, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;954&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195730,&quot;final_size&quot;:195730,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:182717,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615236}
+19-09-2022 19:20:36 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/280543251_422501149878076_1668296297111121_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/280543251_422501149878076_1668296297111121_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/280543251_422501149878076_1668296297111121_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][debug] New queue created #263, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;955&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192240,&quot;final_size&quot;:192240,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:178707,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615237}
+19-09-2022 19:20:37 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257379849_5226910597329402_8567428486328565012_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257379849_5226910597329402_8567428486328565012_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257379849_5226910597329402_8567428486328565012_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][debug] New queue created #264, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;964&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:97100,&quot;final_size&quot;:97100,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:88297,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615238}
+19-09-2022 19:20:38 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+19-09-2022 19:20:39 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:39 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257883633_5229764800377315_2356289870482293182_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:39 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:39 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257883633_5229764800377315_2356289870482293182_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:39 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257883633_5229764800377315_2356289870482293182_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][debug] New queue created #265, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;965&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:126006,&quot;final_size&quot;:126006,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:112793,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615240}
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:40 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257916787_5238333822853746_887858075724095285_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257916787_5238333822853746_887858075724095285_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/257916787_5238333822853746_887858075724095285_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][debug] New queue created #266, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;966&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:146765,&quot;final_size&quot;:146765,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:136348,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615241}
+19-09-2022 19:20:41 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258103897_5229764790377316_2511081117334086432_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258103897_5229764790377316_2511081117334086432_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258103897_5229764790377316_2511081117334086432_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][debug] New queue created #267, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;967&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118600,&quot;final_size&quot;:118600,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106658,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615242}
+19-09-2022 19:20:42 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][error] Error to optimize attachment (ID: #968). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1080x1350
+	-&gt; Relative path: 2022/09/258869603_5243621745658287_7216015418230037252_n.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 240x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 819x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x960, MIME type: image/jpeg
+		-&gt; Type: wishsuite-image, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x750, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][debug] New queue created #268, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;968&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615243}
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][error] Failed to process (url: https://nkojic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n.jpg, path: /home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:43 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259601907_5265280113492450_4024845200379449275_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259601907_5265280113492450_4024845200379449275_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259601907_5265280113492450_4024845200379449275_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][debug] New queue created #269, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;969&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:59884,&quot;final_size&quot;:59884,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:50892,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615244}
+19-09-2022 19:20:44 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][error] Error to optimize attachment (ID: #970). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1080x1350
+	-&gt; Relative path: 2022/09/259927294_5261684300518698_4692293689349811467_n.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 240x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 819x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x960, MIME type: image/jpeg
+		-&gt; Type: wishsuite-image, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x750, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][debug] New queue created #270, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;970&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615245}
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][error] Failed to process (url: https://nkojic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n.jpg, path: /home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 19:20:45 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260880467_5265280116825783_4506242244910200380_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260880467_5265280116825783_4506242244910200380_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260880467_5265280116825783_4506242244910200380_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][debug] New queue created #271, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;971&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:71412,&quot;final_size&quot;:71412,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:60843,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615246}
+19-09-2022 19:20:46 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261664653_5270332956320499_6281617165607028798_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261664653_5270332956320499_6281617165607028798_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261664653_5270332956320499_6281617165607028798_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][debug] New queue created #272, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;972&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:83387,&quot;final_size&quot;:83387,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:72108,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615247}
+19-09-2022 19:20:47 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261815962_5270332949653833_7979026948716741569_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261815962_5270332949653833_7979026948716741569_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261815962_5270332949653833_7979026948716741569_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][debug] New queue created #273, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;973&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:79342,&quot;final_size&quot;:79342,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:67859,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615248}
+19-09-2022 19:20:48 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/262017319_5270332946320500_7179136394620774453_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/262017319_5270332946320500_7179136394620774453_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/262017319_5270332946320500_7179136394620774453_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][debug] New queue created #274, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;974&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:60904,&quot;final_size&quot;:60904,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:52244,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615249}
+19-09-2022 19:20:49 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260988501_5294617327225395_702129359750297446_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260988501_5294617327225395_702129359750297446_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/260988501_5294617327225395_702129359750297446_n-288x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][debug] New queue created #275, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;983&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:21620,&quot;final_size&quot;:21620,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17391,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615250}
+19-09-2022 19:20:50 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261814755_5275939469093181_313739552752370096_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261814755_5275939469093181_313739552752370096_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:51 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261814755_5275939469093181_313739552752370096_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][debug] New queue created #276, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;984&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:104902,&quot;final_size&quot;:104902,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:91685,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615252}
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261944597_5284615848225543_1752143954436133336_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:52 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261944597_5284615848225543_1752143954436133336_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/261944597_5284615848225543_1752143954436133336_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][debug] New queue created #277, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;985&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:77764,&quot;final_size&quot;:77764,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:65976,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615253}
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:53 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263219317_5297916523562142_9075019703686481557_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263219317_5297916523562142_9075019703686481557_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263219317_5297916523562142_9075019703686481557_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][debug] New queue created #278, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;986&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66008,&quot;final_size&quot;:66008,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:62806,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615254}
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:54 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263807971_5294766513877143_3575742084315107950_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263807971_5294766513877143_3575742084315107950_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/263807971_5294766513877143_3575742084315107950_n-286x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][debug] New queue created #279, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;987&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:22287,&quot;final_size&quot;:22287,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17563,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615255}
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+19-09-2022 19:20:55 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/265941618_5314897691864025_4890592160211063953_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/265941618_5314897691864025_4890592160211063953_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/265941618_5314897691864025_4890592160211063953_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][debug] New queue created #280, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;988&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:52569,&quot;final_size&quot;:52569,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:43694,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615256}
+19-09-2022 19:20:56 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278158065_396712785790246_6799112906241533773_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278158065_396712785790246_6799112906241533773_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278158065_396712785790246_6799112906241533773_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][debug] New queue created #281, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;997&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:137811,&quot;final_size&quot;:137811,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:127792,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615257}
+19-09-2022 19:20:57 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277674091_394374049357453_2394203881358797154_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277674091_394374049357453_2394203881358797154_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277674091_394374049357453_2394203881358797154_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][debug] New queue created #282, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;998&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:138645,&quot;final_size&quot;:138645,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:126470,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615258}
+19-09-2022 19:20:58 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+19-09-2022 19:20:59 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:20:59 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277750480_392333472894844_5796072755245154553_n.jpg) to a remote server (server_1).
+19-09-2022 19:20:59 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:20:59 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277750480_392333472894844_5796072755245154553_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:20:59 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:00 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277750480_392333472894844_5796072755245154553_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:00 [nkojic.wppsbootcamp.com][debug] New queue created #283, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;999&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:100293,&quot;final_size&quot;:100293,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:97292,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615260}
+19-09-2022 19:21:00 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+19-09-2022 19:21:00 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:00 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278129639_396712795790245_2565813338551921552_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278129639_396712795790245_2565813338551921552_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/278129639_396712795790245_2565813338551921552_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][debug] New queue created #284, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1000&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:100410,&quot;final_size&quot;:100410,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:90032,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615261}
+19-09-2022 19:21:01 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/276176519_5662957697058021_609342679194464_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/276176519_5662957697058021_609342679194464_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/276176519_5662957697058021_609342679194464_n-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][debug] New queue created #285, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1004&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:41235,&quot;final_size&quot;:41235,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33648,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615262}
+19-09-2022 19:21:02 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277124599_5662978740389250_929996973000897858_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277124599_5662978740389250_929996973000897858_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277124599_5662978740389250_929996973000897858_n-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][debug] New queue created #286, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1005&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:33374,&quot;final_size&quot;:33374,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:27494,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615263}
+19-09-2022 19:21:03 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277133878_5662971040390020_236700466778340828_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277133878_5662971040390020_236700466778340828_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/277133878_5662971040390020_236700466778340828_n-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][debug] New queue created #287, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1006&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:32926,&quot;final_size&quot;:32926,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:26497,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615264}
+19-09-2022 19:21:04 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/115931988_3791291120891364_3685583530367400049_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/115931988_3791291120891364_3685583530367400049_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/115931988_3791291120891364_3685583530367400049_n-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][debug] New queue created #288, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1249&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:149026,&quot;final_size&quot;:149026,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:133873,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615265}
+19-09-2022 19:21:05 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+19-09-2022 19:21:06 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:06 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/icons8-shopping-cart-60.png) to a remote server (server_1).
+19-09-2022 19:21:06 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:06 [nkojic.wppsbootcamp.com][debug] New queue created #289, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1264&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:666,&quot;final_size&quot;:666,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:666,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615266}
+19-09-2022 19:21:06 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/lilac-indigo-sky.jpg) to a remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/lilac-indigo-sky-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/lilac-indigo-sky-223x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][debug] New queue created #290, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1312&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:101399,&quot;final_size&quot;:101399,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:93159,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615267}
+19-09-2022 19:21:07 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+19-09-2022 19:21:08 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:08 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2bdea9e2-2aa8-4ea2-ba18-cebf720bab60_1.jpg) to a remote server (server_1).
+19-09-2022 19:21:08 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2bdea9e2-2aa8-4ea2-ba18-cebf720bab60_1-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2bdea9e2-2aa8-4ea2-ba18-cebf720bab60_1-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][debug] New queue created #291, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1318&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:164110,&quot;final_size&quot;:164110,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:153391,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615269}
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:09 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/7ed87725-8b79-4261-90c9-4deb7fac66b8.jpg) to a remote server (server_1).
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/7ed87725-8b79-4261-90c9-4deb7fac66b8-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/7ed87725-8b79-4261-90c9-4deb7fac66b8-290x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][debug] New queue created #292, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1324&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:229538,&quot;final_size&quot;:229538,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:214081,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615270}
+19-09-2022 19:21:10 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8fbdb673-662e-495f-8379-594ce33f1896.jpg) to a remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8fbdb673-662e-495f-8379-594ce33f1896-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8fbdb673-662e-495f-8379-594ce33f1896-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][debug] New queue created #293, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1325&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:141720,&quot;final_size&quot;:141720,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:129911,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615271}
+19-09-2022 19:21:11 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d.jpg) to a remote server (server_1).
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][error] Error to optimize attachment (ID: #1326). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1200x1600
+	-&gt; Relative path: 2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 225x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 768x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1024, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1152x1536, MIME type: image/jpeg
+		-&gt; Type: wishsuite-image, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: menu-24x24, size: 18x24, MIME type: image/jpeg
+		-&gt; Type: menu-36x36, size: 27x36, MIME type: image/jpeg
+		-&gt; Type: menu-48x48, size: 36x48, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x800, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][debug] New queue created #294, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1326&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615272}
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][error] Failed to process (url: https://nkojic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d.jpg, path: /home/nkojic/public_html/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 19:21:12 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/19ea7edc-1ed8-44e6-95f5-90aad706f864.jpg) to a remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/19ea7edc-1ed8-44e6-95f5-90aad706f864-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/19ea7edc-1ed8-44e6-95f5-90aad706f864-282x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][debug] New queue created #295, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1327&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:171513,&quot;final_size&quot;:171513,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:160350,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615273}
+19-09-2022 19:21:13 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+19-09-2022 19:21:14 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/49a0acac-92ac-4d61-bd8a-0ed4d62b9407.jpg) to a remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/49a0acac-92ac-4d61-bd8a-0ed4d62b9407-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/49a0acac-92ac-4d61-bd8a-0ed4d62b9407-233x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][debug] New queue created #296, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1328&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:310332,&quot;final_size&quot;:310332,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:302961,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615275}
+19-09-2022 19:21:15 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ac5fb6-3b11-4978-baa0-e7f28d1508b4.jpg) to a remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ac5fb6-3b11-4978-baa0-e7f28d1508b4-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ac5fb6-3b11-4978-baa0-e7f28d1508b4-169x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][debug] New queue created #297, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1329&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119918,&quot;final_size&quot;:119918,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:113317,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615276}
+19-09-2022 19:21:16 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+19-09-2022 19:21:17 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:17 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/5135f601-008e-4e90-a8ae-f85d1923c6b6.jpg) to a remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/5135f601-008e-4e90-a8ae-f85d1923c6b6-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/5135f601-008e-4e90-a8ae-f85d1923c6b6-208x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][debug] New queue created #298, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1334&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119537,&quot;final_size&quot;:119537,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:112246,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615278}
+19-09-2022 19:21:18 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/81885aab-0664-4100-bd6c-f7590c68b203.jpg) to a remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/81885aab-0664-4100-bd6c-f7590c68b203-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/81885aab-0664-4100-bd6c-f7590c68b203-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][debug] New queue created #299, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1336&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:153112,&quot;final_size&quot;:153112,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:141664,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615279}
+19-09-2022 19:21:19 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/88419f8e-0bbf-4438-a955-e5a2dc44e664.jpg) to a remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/88419f8e-0bbf-4438-a955-e5a2dc44e664-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/88419f8e-0bbf-4438-a955-e5a2dc44e664-169x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][debug] New queue created #300, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1337&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:177610,&quot;final_size&quot;:177610,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:166465,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615280}
+19-09-2022 19:21:20 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/a32391f7-9701-4036-a7c8-f9d13143f73c.jpg) to a remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/a32391f7-9701-4036-a7c8-f9d13143f73c-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/a32391f7-9701-4036-a7c8-f9d13143f73c-296x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][debug] New queue created #301, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1338&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:136819,&quot;final_size&quot;:136819,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:117555,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615281}
+19-09-2022 19:21:21 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+19-09-2022 19:21:22 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/c8c44706-3afa-4e84-a60d-79450033d175.jpg) to a remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/c8c44706-3afa-4e84-a60d-79450033d175-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/c8c44706-3afa-4e84-a60d-79450033d175-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][debug] New queue created #302, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1339&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:140303,&quot;final_size&quot;:140303,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:129238,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615283}
+19-09-2022 19:21:23 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4.jpg) to a remote server (server_1).
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][error] Error to optimize attachment (ID: #1343). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1197x1600
+	-&gt; Relative path: 2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 224x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 766x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1027, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1149x1536, MIME type: image/jpeg
+		-&gt; Type: wishsuite-image, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: menu-24x24, size: 18x24, MIME type: image/jpeg
+		-&gt; Type: menu-36x36, size: 27x36, MIME type: image/jpeg
+		-&gt; Type: menu-48x48, size: 36x48, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x802, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][debug] New queue created #303, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1343&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615284}
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][error] Failed to process (url: https://nkojic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4.jpg, path: /home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 19:21:24 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e692411c-450a-4130-947a-25b4520889e3.jpg) to a remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e692411c-450a-4130-947a-25b4520889e3-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e692411c-450a-4130-947a-25b4520889e3-189x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][debug] New queue created #304, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1344&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:101602,&quot;final_size&quot;:101602,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:92660,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615285}
+19-09-2022 19:21:25 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e8389320-b2ac-4b5f-a392-78274e846e66.jpg) to a remote server (server_1).
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e8389320-b2ac-4b5f-a392-78274e846e66-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:26 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e8389320-b2ac-4b5f-a392-78274e846e66-293x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:27 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:27 [nkojic.wppsbootcamp.com][debug] New queue created #305, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1345&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:175197,&quot;final_size&quot;:175197,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:165153,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615287}
+19-09-2022 19:21:27 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+19-09-2022 19:21:27 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:27 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/f2bc2010-d30b-4630-b86e-feeafa001e87.jpg) to a remote server (server_1).
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/f2bc2010-d30b-4630-b86e-feeafa001e87-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/f2bc2010-d30b-4630-b86e-feeafa001e87-216x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][debug] New queue created #306, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1346&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:190617,&quot;final_size&quot;:190617,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:185444,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615288}
+19-09-2022 19:21:28 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/1.jpg) to a remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/1-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/1-300x225.jpg) to a remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][debug] New queue created #307, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1364&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:53515,&quot;final_size&quot;:53515,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:41467,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615289}
+19-09-2022 19:21:29 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+19-09-2022 19:21:30 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:30 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/VeriPeriAnt.png) to a remote server (server_1).
+19-09-2022 19:21:30 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:30 [nkojic.wppsbootcamp.com][debug] New queue created #308, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1440&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2671,&quot;final_size&quot;:2671,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:2671,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615290}
+19-09-2022 19:21:30 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/CrniAnt.png) to a remote server (server_1).
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][debug] New queue created #309, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1441&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2682,&quot;final_size&quot;:2682,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:2682,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615291}
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/srcebezmrava.png) to a remote server (server_1).
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:31 [nkojic.wppsbootcamp.com][debug] New queue created #310, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1442&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2820,&quot;final_size&quot;:2820,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:2820,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615291}
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/srcesamravom.png) to a remote server (server_1).
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][debug] New queue created #311, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1444&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:3416,&quot;final_size&quot;:3416,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:3416,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615292}
+19-09-2022 19:21:32 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ants-store.png) to a remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ants-store-150x150.png) to a remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ants-store-300x300.png) to a remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][debug] New queue created #312, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1554&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:15895,&quot;final_size&quot;:15895,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:8818,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615293}
+19-09-2022 19:21:33 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ANTScrnaslova-scaled.jpg) to a remote server (server_1).
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ANTScrnaslova-scaled-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ANTScrnaslova-scaled-300x110.jpg) to a remote server (server_1).
+19-09-2022 19:21:34 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:35 [nkojic.wppsbootcamp.com][debug] New queue created #313, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1584&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:65130,&quot;final_size&quot;:46465,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:58171,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615295}
+19-09-2022 19:21:35 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+19-09-2022 19:21:35 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:35 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/235714317_4914517638568701_7706460909969373035_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:35 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/235714317_4914517638568701_7706460909969373035_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/235714317_4914517638568701_7706460909969373035_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][debug] New queue created #314, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1650&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:152090,&quot;final_size&quot;:152090,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:131558,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615296}
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:36 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/228032481_4900852646601867_6457021763047270024_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/228032481_4900852646601867_6457021763047270024_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/228032481_4900852646601867_6457021763047270024_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][debug] New queue created #315, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1651&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:213477,&quot;final_size&quot;:213477,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:187968,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615297}
+19-09-2022 19:21:37 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240112443_4954522104568254_592497909423959602_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240112443_4954522104568254_592497909423959602_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240112443_4954522104568254_592497909423959602_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][debug] New queue created #316, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1652&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:236849,&quot;final_size&quot;:236849,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:206017,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615298}
+19-09-2022 19:21:38 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240959705_4980788315274966_7644115595912782021_n.jpg) to a remote server (server_1).
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240959705_4980788315274966_7644115595912782021_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/240959705_4980788315274966_7644115595912782021_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][debug] New queue created #317, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1653&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:274637,&quot;final_size&quot;:274637,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:267140,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663615299}
+19-09-2022 19:21:39 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e.jpg) to a remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][error] Error to optimize attachment (ID: #496). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1000x1499
+	-&gt; Relative path: 2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 200x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 683x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1151, MIME type: image/jpeg
+		-&gt; Type: wishsuite-image, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x899, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][debug] New queue created #318, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;496&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617192}
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][error] Failed to process (url: https://nkojic.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e.jpg, path: /home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/bbd24df5-7c7a-4410-88e3-6e55d87d1eb6.jpg) to a remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/bbd24df5-7c7a-4410-88e3-6e55d87d1eb6-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/bbd24df5-7c7a-4410-88e3-6e55d87d1eb6-200x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][debug] New queue created #319, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;520&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:74057,&quot;final_size&quot;:74057,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:64188,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617192}
+19-09-2022 19:53:12 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e61e1227-6a77-46e1-9123-d569f2ac7853.jpg) to a remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e61e1227-6a77-46e1-9123-d569f2ac7853-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e61e1227-6a77-46e1-9123-d569f2ac7853-200x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][debug] New queue created #320, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;536&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:93952,&quot;final_size&quot;:93952,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:81826,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617193}
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ec5b941e-2924-48d2-9961-0af08cd65ad7.jpg) to a remote server (server_1).
+19-09-2022 19:53:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ec5b941e-2924-48d2-9961-0af08cd65ad7-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/ec5b941e-2924-48d2-9961-0af08cd65ad7-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][debug] New queue created #321, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;539&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:86882,&quot;final_size&quot;:86882,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:78381,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617194}
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2280b3ca-2bc5-45e6-993f-a47354705cbd.jpg) to a remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2280b3ca-2bc5-45e6-993f-a47354705cbd-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/2280b3ca-2bc5-45e6-993f-a47354705cbd-230x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][debug] New queue created #322, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;561&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:333031,&quot;final_size&quot;:333031,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:315293,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617195}
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/28d64869-b2d6-470b-bd50-6d3c25af0747.jpg) to a remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/28d64869-b2d6-470b-bd50-6d3c25af0747-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/28d64869-b2d6-470b-bd50-6d3c25af0747-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][debug] New queue created #323, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;578&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:134595,&quot;final_size&quot;:134595,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:123775,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617195}
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:15 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/3fc23938-bf77-4f56-8de2-9b419b4366a3.jpg) to a remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/3fc23938-bf77-4f56-8de2-9b419b4366a3-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/3fc23938-bf77-4f56-8de2-9b419b4366a3-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][debug] New queue created #324, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;604&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:219984,&quot;final_size&quot;:219984,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:210052,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617196}
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ca8547-e9f4-4b58-b0b6-bc3b8d5b4f96.jpg) to a remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ca8547-e9f4-4b58-b0b6-bc3b8d5b4f96-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:16 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/55ca8547-e9f4-4b58-b0b6-bc3b8d5b4f96-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][debug] New queue created #325, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;611&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:152573,&quot;final_size&quot;:152573,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:148214,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617197}
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/65f7996c-63e9-46b2-95bc-769cf377a761.jpg) to a remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/65f7996c-63e9-46b2-95bc-769cf377a761-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/65f7996c-63e9-46b2-95bc-769cf377a761-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][debug] New queue created #326, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;612&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:262276,&quot;final_size&quot;:262276,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:251932,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617197}
+19-09-2022 19:53:17 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/34863fb8-122b-403e-86ab-70424a0077be.jpg) to a remote server (server_1).
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/34863fb8-122b-403e-86ab-70424a0077be-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/34863fb8-122b-403e-86ab-70424a0077be-239x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][debug] New queue created #327, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;619&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:107912,&quot;final_size&quot;:107912,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:101287,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617198}
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:18 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/78883d42-d816-442b-9124-191a4c7face5.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/78883d42-d816-442b-9124-191a4c7face5-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/78883d42-d816-442b-9124-191a4c7face5-223x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][debug] New queue created #328, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;637&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:111811,&quot;final_size&quot;:111811,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:100689,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617199}
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/934e82f4-3a3d-4ef8-b5ed-ee95294e4834.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/934e82f4-3a3d-4ef8-b5ed-ee95294e4834-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/934e82f4-3a3d-4ef8-b5ed-ee95294e4834-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][debug] New queue created #329, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;766&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:86925,&quot;final_size&quot;:86925,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:84895,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617199}
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:19 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/6e6f1717-76c1-44e9-842f-3f2b0f52aa57-min.jpg) to a remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/6e6f1717-76c1-44e9-842f-3f2b0f52aa57-min-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/6e6f1717-76c1-44e9-842f-3f2b0f52aa57-min-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][debug] New queue created #330, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;779&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:99503,&quot;final_size&quot;:99503,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:86534,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617200}
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e3a4e80a-0fe6-49aa-8999-2877b774fc76.jpg) to a remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:20 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e3a4e80a-0fe6-49aa-8999-2877b774fc76-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e3a4e80a-0fe6-49aa-8999-2877b774fc76-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][debug] New queue created #331, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;821&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:131371,&quot;final_size&quot;:131371,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:119308,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617201}
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n.jpg) to a remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/258869603_5243621745658287_7216015418230037252_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][debug] New queue created #332, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;968&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:105701,&quot;final_size&quot;:105701,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:93124,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617201}
+19-09-2022 19:53:21 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n.jpg) to a remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/259927294_5261684300518698_4692293689349811467_n-240x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][debug] New queue created #333, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;970&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:78889,&quot;final_size&quot;:78889,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:73257,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617202}
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d.jpg) to a remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:22 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/11ef49f1-396f-4c6c-9f3c-3947099dd35d-225x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][debug] New queue created #334, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1326&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:126663,&quot;final_size&quot;:126663,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:115006,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617203}
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4.jpg) to a remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/e9ddaa5d-36fd-4d58-b8d5-cc3c2283f2c4-224x300.jpg) to a remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][debug] New queue created #335, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1343&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:234046,&quot;final_size&quot;:226522,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:220502,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617203}
+19-09-2022 19:53:23 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e.jpg) to a remote server (server_1).
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-150x150.jpg) to a remote server (server_1).
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:13 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-200x300.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-768x1151.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-683x1024.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-100x100.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-300x300.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-600x899.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] Preparing to upload a file (/home/nkojic/public_html/projekat/wp-content/uploads/2022/09/8e1ff99c-1e4c-4b7f-828b-610ca0ce772e-100x100.jpg) to a remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][debug] New queue created #336, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;496&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;aggresive&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:246475,&quot;final_size&quot;:246475,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:8,\&quot;original_main_size\&quot;:90454,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663617314}
+19-09-2022 19:55:14 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+19-09-2022 20:22:52 [nkojic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+19-09-2022 20:22:52 [nkojic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------

@@ -1,0 +1,19 @@
+2022-09-19T12:17:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_home_path() in /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/templates/minify/cached-file-log.php:5
+Stack trace:
+#0 /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/wp-optimize.php(1223): include()
+#1 /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-cache-functions.php(490): WP_Optimize->include_template('minify/cached-f...', true, Array)
+#2 [internal function]: WP_Optimize_Minify_Cache_Functions::format_file_logs(Array)
+#3 /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-commands.php(22): array_map(Array, Array)
+#4 /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify-commands.php(86): WP_Optimize_Minify_Commands->get_minify_cached_files()
+#5 /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/minify/class-wp-optimize-minify.php(113): WP_Optimize_Minify_Commands->purge_minify_cache()
+#6 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(307): WP_Optimize_Minify->handle_purge_minify_cache('')
+#7 /home/nkojic/public_html/projekatants/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 /home/nkojic/public_html/projekatants/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#9 /home/nkojic/public_html/projekatants/wp-settings.php(620): do_action('wp_loaded')
+#10 /home/nkojic/public_html/projekatants/wp-config.php(96): require_once('/home/nkojic/pu...')
+#11 /home/nkojic/public_html/projekatants/wp-load.php(50): require_once('/home/nkojic/pu...')
+#12 /home/nkojic/public_html/projekatants/wp-admin/admin.php(34): require_once('/home/nkojic/pu...')
+#13 /home/nkojic/public_html/projekatants/wp-admin/plugins.php(10): require_once('/home/nkojic/pu...')
+#14 {main}
+  thrown in /home/nkojic/public_html/projekatants/wp-content/plugins/wp-optimize/templates/minify/cached-file-log.php on line 5
+

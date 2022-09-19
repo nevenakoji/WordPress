@@ -1,0 +1,38 @@
+2022-09-18T13:30:22+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:30:24+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:30:38+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:30:54+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:31:06+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:31:11+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:31:21+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:32:11+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:32:39+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:32:55+00:00 CRITICAL syntax error, unexpected token "return", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 31
+
+2022-09-18T13:36:29+00:00 CRITICAL syntax error, unexpected token "-", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 33
+
+2022-09-18T13:36:30+00:00 CRITICAL syntax error, unexpected token "-", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 33
+
+2022-09-18T13:36:44+00:00 CRITICAL syntax error, unexpected token "-", expecting "(" in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 33
+
+2022-09-18T21:21:09+00:00 CRITICAL Cannot redeclare change_returntoshop_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:44) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 55
+
+2022-09-18T21:21:13+00:00 CRITICAL Cannot redeclare change_returntoshop_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:44) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 55
+
+2022-09-18T21:21:25+00:00 CRITICAL Cannot redeclare change_returntoshop_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:44) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 55
+
+2022-09-18T21:21:40+00:00 CRITICAL Cannot redeclare change_returntoshop_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:44) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 55
+
+2022-09-18T21:57:26+00:00 CRITICAL Cannot redeclare change_yourcartiscurrentlyempty_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:33) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 156
+
+2022-09-18T21:57:29+00:00 CRITICAL Cannot redeclare change_yourcartiscurrentlyempty_text() (previously declared in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php:33) in /home/nkojic/public_html/projekatants/wp-content/themes/astra-child/functions.php on line 156
+
